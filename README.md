@@ -48,3 +48,6 @@ This project is a Sokoban game built with C++ and SFML. Players solve puzzles by
   - `a`: Storage location
   - `1`: Box on a storage location
   - `.`: Empty tile
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
